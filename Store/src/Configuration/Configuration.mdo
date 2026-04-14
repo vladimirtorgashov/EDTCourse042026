@@ -43,6 +43,7 @@
   <roles>Role.Роль</roles>
   <catalogs>Catalog.Контрагенты</catalogs>
   <catalogs>Catalog.Номенклатура</catalogs>
+  <catalogs>Catalog.Производители</catalogs>
   <catalogs>Catalog.Склады</catalogs>
   <documents>Document.ПоступлениеТоваров</documents>
   <accumulationRegisters>AccumulationRegister.ТоварыНаСкладах</accumulationRegisters>
