@@ -53,6 +53,7 @@
       <key>ru</key>
       <value>Комментарий</value>
     </synonym>
+    <comment>добавлен коммент</comment>
     <type>
       <types>String</types>
       <stringQualifiers/>
